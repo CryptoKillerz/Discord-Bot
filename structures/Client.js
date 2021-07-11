@@ -18,7 +18,7 @@ const client = new Client({
 const chalk = require('chalk');
 const Levels = require('discord-xp');
 const ms = require('ms');
-Levels.setURL("mongodb+srv://DBUser2149:DBUser32039@cluster0.eyrns.mongodb.net/Data?retryWrites=true&w=majority");
+Levels.setURL("LMAO");
 const { default: fetch } = require('node-fetch');
 require('../database/connection')(client);
 const prefixSchema = require('../database/schema/prefix-schema');
